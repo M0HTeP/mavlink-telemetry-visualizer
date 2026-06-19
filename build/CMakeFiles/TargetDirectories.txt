@@ -1,5 +1,0 @@
-/home/uavprof2/~/mavlink-telemetry-visualizer/build/CMakeFiles/mav_visualizer.dir
-/home/uavprof2/~/mavlink-telemetry-visualizer/build/CMakeFiles/edit_cache.dir
-/home/uavprof2/~/mavlink-telemetry-visualizer/build/CMakeFiles/rebuild_cache.dir
-/home/uavprof2/~/mavlink-telemetry-visualizer/build/CMakeFiles/mav_visualizer_autogen_timestamp_deps.dir
-/home/uavprof2/~/mavlink-telemetry-visualizer/build/CMakeFiles/mav_visualizer_autogen.dir
