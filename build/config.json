@@ -1,0 +1,15 @@
+{
+  "udp": {
+    "host": "127.0.0.1",
+    "port": 14550
+  },
+  "history": {
+    "max_records_per_message": 10000,
+    "max_age_seconds": 600
+  },
+  "chart": {
+    "window_seconds": 30,
+    "update_ms": 200,
+    "live_restore_ms": 500
+  }
+}
